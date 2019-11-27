@@ -19,3 +19,8 @@ $ source ./venv/bin/activate
 ## key words
 
 - [epoch](https://deepai.org/machine-learning-glossary-and-terms/epoch)
+- [epsilon-greedy algorithm](https://jamesmccaffrey.wordpress.com/2017/11/30/the-epsilon-greedy-algorithm/)
+- [multi-arm-bandit](https://towardsdatascience.com/solving-multiarmed-bandits-a-comparison-of-epsilon-greedy-and-thompson-sampling-d97167ca9a50)
+
+## other links
+- https://matplotlib.org/
